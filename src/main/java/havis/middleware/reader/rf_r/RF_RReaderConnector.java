@@ -154,7 +154,7 @@ public abstract class RF_RReaderConnector implements ReaderConnector {
 	/**
 	 * The device capabilities containing the name, type, manufacturer and firmware version of the reader. 
 	 */
-	protected DeviceCapabilities devCaps = new DeviceCapabilities(null, "HARTING Software Development GmbH & Co.KG", null, null);
+	protected DeviceCapabilities devCaps = new DeviceCapabilities(null, "Menucha Team", null, null);
 	
 	/**
 	 * A map representing the connect type for each antenna.
